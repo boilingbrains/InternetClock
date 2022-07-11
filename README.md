@@ -36,7 +36,7 @@ Ce projet est un exemple de ce qu'on peut réaliser avec une carte NodeMCU ESP82
 
 ```
 ## Explications:
-Clique sur l'image en-dessous 👇
+Clique sur l'image çi-dessous 👇
 <span style="display:block;text-align:center">
 
 [![image](/miniature.png)](https://youtu.be/7dOeBgHTTiU)
