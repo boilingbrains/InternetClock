@@ -4,7 +4,11 @@
 Ce projet est un exemple de ce qu'on peut réaliser avec une carte NodeMCU ESP8266. On utilise le protocol NTP pour récuperer l'heure de Paris... qui est ensuite affichée sur **une matrice LED (MAX7219)**. **La photorésistances(GL5539 30K-90K)** va évaluer le niveau de luminosité ambient pour permettre d'ajuster celles des LEDs de la matrice. Le capteurs **DHT11**  permet d'avoir la température & l'humidité. Ainsi, on peut montrer que la carte peut collecter des données venant de capteur éléctronique comme pour l'Arduino. Enfin, à l'aide de l'API de CoinDesk, on récupère le prix du BTC en dollars. 
 ## Montage:
 
-🔗 DHT11: 
+🔗 NodeMCU : https://amzn.to/3ACJpLL 
+🔗 DHT11: https://amzn.to/3NWhrxA
+🔗 matrice LED (MAX7219):https://amzn.to/3Oc3YSt
+🔗 photorésistances(GL5539 30K-90K):https://amzn.to/3NUbGAh
+
 [![image](#center)](D:\Projects\InternetClock\Montage.PNG)
 
 ## Liens utiles:
