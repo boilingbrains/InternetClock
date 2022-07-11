@@ -5,8 +5,11 @@ Ce projet est un exemple de ce qu'on peut réaliser avec une carte NodeMCU ESP82
 ## Montage:
 
 🔗 NodeMCU : https://amzn.to/3ACJpLL 
+
 🔗 DHT11: https://amzn.to/3NWhrxA
+
 🔗 matrice LED (MAX7219):https://amzn.to/3Oc3YSt
+
 🔗 photorésistances(GL5539 30K-90K):https://amzn.to/3NUbGAh
 
 [![image](#center)](D:\Projects\InternetClock\Montage.PNG)
