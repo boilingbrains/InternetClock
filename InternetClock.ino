@@ -78,7 +78,7 @@ void setup() {
 }
 
 void loop() {
-  m = map(analogRead(0), 0, 1024, 0, 12);
+  m = map(analogRead(0), 0, 1023, 0, 12);
   matrix.setIntensity(m);
   matrix.fillScreen(LOW);
   time_t now = time(nullptr);
